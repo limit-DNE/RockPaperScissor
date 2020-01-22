@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rock Paper Scissor</string>
+    <string name="gif_background">An animated background displaying rock paper and scissor</string>
+    <string name="start">Start</string>
+    <string name="ask_user">Are you ROCK, PAPER or SCISSOR?</string>
+    <string name="rock">ROCK</string>
+    <string name="paper">PAPER</string>
+    <string name="scissor">SCISSOR</string>
+    <string name="you">You</string>
+    <string name="computer">Computer</string>
+    <string name="userchoice_description">Displays the image of a rock, paper or scissor based on user selection</string>
+    <string name="computerchoice_description">Displays the image of a rock, paper or scissor based on computer selection</string>
+    <string name="replay">Replay</string>
+    <string name="exit">Exit</string>
+    <string name="play">Play</string>
+    <string name="scoreboard">You: %1$d Computer: %2$d</string>
+</resources>
